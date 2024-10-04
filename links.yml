@@ -46,7 +46,7 @@ categories:
         url: https://lan.katomegumi.net
         description: 虚拟组网联机软件
       - title: AIの调教手册
-        logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
+        logo: https://ai.katomegumi.net/favicon.ico
         url: https://ai.katomegumi.net
         description: AI派蒙和妮可的调教菜单手册
       - title: EFTIW逃离交错世界 MC服务器
@@ -54,7 +54,7 @@ categories:
         url: https://eftiw.katomegumi.net
         description: 一个我的世界服务器
       - title: Katofrp饥荒版联机工具
-        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
+        logo: https://tc.vlogidc.cn/img/2024/09/22/66f03995e8a0b.png
         url: https://frp.katomegumi.net/starve.html
         description: Katofrp针对饥荒的优化版本
       - title: 本子芊の博客园
@@ -64,53 +64,7 @@ categories:
       - title: AI制作春联
         logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
         url: https://ai.katomegumi.net
-        description: AI写作！！
-
-  - category: Proxy
-    hide_menu: true
-    icon: fa-solid fa-star
-    links:
-      - title: Cloudflare代理
-        logo: https://cdn.imkk.uk/icon/nav/cloudflare.ico
-        url: https://proxy.imkk.uk/
-        description: 输入目标网址即可访问, 对Wikipedia等站有优化
-      - title: Vercel代理
-        logo: https://cdn.imkk.uk/icon/nav/vercel.ico
-        url: https://www.proxies.dynv6.net/URL
-        description: 将目标网址去掉前缀替换此链接中的URL, 如替换URL为github.com以访问https://github.com
-      - title: GlaDOS
-        logo: https://cdn.imkk.uk/icon/nav/glados.ico
-        url: https://glados.space/landing/9PR25-TZB9J-53PWH-NVUDY
-        description: 科学上网/翻墙, 学生及教职工可通过edu邮箱获得365天的时长
-
-  - category: 个人站点
-    icon: fa-solid fa-laptop
-    links:
-      - title: NextChat
-        logo: https://cdn.imkk.uk/icon/nav/nextchat.ico
-        url: https://chat.imkk.uk/
-        description: ChatGPT网页应用, 部署于Vercel
-      - title: BingAI
-        logo: https://cdn.imkk.uk/icon/nav/bingai.ico
-        url: https://bingai.imkk.uk/
-        description: NewBing镜像站, 部署于Cloudflare Workers
-      - title: OneAPI
-        logo: https://cdn.imkk.uk/icon/nav/oneapi.ico
-        url: https://oapi.imkk.uk/
-        description: ChatGPT API分发站, 有需要的可发邮件申请Key
-      - title: Alist
-        logo: https://cdn.imkk.uk/icon/nav/alist.svg
-        url: https://alist.imkk.uk/
-        description: 个人影音库, 部署于本地, Cloudflare代理
-      - title: Reader
-        logo: https://cdn.imkk.uk/icon/nav/reader.ico
-        url: https://yuedu.imkk.uk/
-        description: 开源小说/网文阅读, 部署于本地, Cloudflare代理
-      - title: FileBox
-        logo: https://cdn.imkk.uk/icon/nav/filebox.png
-        url: https://box.imkk.uk/
-        description: 匿名口令分享文本、文件, 部署于本地, Cloudflare代理
-
+        description: AI写作春联
   - category: 学术资源
     icon: fa-solid fa-graduation-cap
     links:
