@@ -37,18 +37,34 @@ categories:
         logo: https://cdn.imkk.uk/icon/svg/Home.svg
         url: https://www.imkk.uk/
         description: 我的主页, 欢迎访问
-      - title: 博客
-        logo: https://cdn.imkk.uk/icon/svg/Blog.svg
-        url: https://blog.imkk.uk/
-        description: 我的博客, 欢迎留言
-      - title: 监测站
-        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
-        url: https://monitor.imkk.uk/
-        description: 监测网站运行状态
-      - title: Email
+      - title: Katofrp联机工具
+        logo: https://frp.katomegumi.net/media/lo.png
+        url: https://frp.katomegumi.net
+        description: 我的世界联机工具，快速与小伙伴远程连接
+      - title: Katolan联机工具
+        logo: https://lan.katomegumi.net/favicon.ico
+        url: https://lan.katomegumi.net
+        description: 虚拟组网联机软件
+      - title: AIの调教手册
         logo: https://cdn.imkk.uk/icon/svg/Envelope.svg
-        url: mailto:nav@imkk.uk
-        description: 点击即可通过邮件联系我
+        url: https://ai.katomegumi.net
+        description: AI派蒙和妮可的调教菜单手册
+      - title: EFTIW逃离交错世界 MC服务器
+        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
+        url: https://eftiw.katomegumi.net
+        description: 一个我的世界服务器
+      - title: Katofrp饥荒版联机工具
+        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
+        url: https://frp.katomegumi.net/starve.html
+        description: Katofrp针对饥荒的优化版本
+      - title: 本子芊の博客园
+        logo: https://ipfs.crossbell.io/ipfs/QmPz9bMFjPXsvoEvxTMeratFxaPud1mrHrLH1FVGyfzV57
+        url: https://me.katomegumi.net
+        description: 小博客！！
+      - title: AI制作春联
+        logo: https://cdn.imkk.uk/icon/svg/CheckCircle.svg
+        url: https://ai.katomegumi.net
+        description: AI写作！！
 
   - category: Proxy
     hide_menu: true
